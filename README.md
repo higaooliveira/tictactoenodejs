@@ -1,4 +1,4 @@
-# TIC TAC TOE GAME WITH Node.js, Express.js, Mysql, Knex and Axios.
+# TIC TAC TOE using Node.js, Express.js, Mysql, Knex and Axios.
 
 A simple tic tac toe using node.js as a way to study new technologies.
 
